@@ -22,11 +22,11 @@ B. To Understand the factors that achieve higher movie revenues, I examine two f
 
 B.1: Movie Genre: 
 
-    I found that Action & Science fiction movies achieve more average revenues than others.
+I found that Action & Science fiction movies achieve more average revenues than others.
 
 B.2: Producing Companies: 
 
-    I first extracted the top ten companies producing more movies. Then I examine its average budget. Then, I    examined the company with the highst difference between the average budget and revenue to figure out the movie genres it mostly produce.
+I first extracted the top ten companies producing more movies. Then I examine its average budget. Then, I examined the company with the highst difference between the average budget and revenue to figure out the movie genres it mostly produce.
 
 # Requirements
 
